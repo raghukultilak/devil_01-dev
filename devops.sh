@@ -7,3 +7,5 @@ city=gwalior
 echo "my name is ${name}"
 echo "my age is ${age}"
 echo "i live in the city of ${city}"
+this is example of simple script.
+
